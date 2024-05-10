@@ -1,4 +1,3 @@
-Certainly! Here's a GitHub README template generated from the provided code:
 
 ---
 
